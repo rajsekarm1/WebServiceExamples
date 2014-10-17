@@ -1,12 +1,9 @@
 
 public class B {
 	
-	public static void methodOne(){
-		System.out.println("B class MethodOne");
-	}
-	
-	public void checkingMethod(){
-		super.methodOne();
+	public static void main(String args[]){
+		String nmsId="/eth=P3223";
+		
 	}
 	
 }
